@@ -43,7 +43,7 @@ section.footer                          {
                                         }
 
 .block                                  {
-                                            max-width: 320px;
+                                            max-width: 100%;
                                             padding: 0;
                                             position: relative;
                                             -webkit-transition: all 0.2s ease-in-out;

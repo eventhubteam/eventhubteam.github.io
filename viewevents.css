@@ -19,3 +19,24 @@ button {
     margin-left: -10px;
     margin-top: -20px;
 }
+
+#event {
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+
+}
+
+#logopic {
+    margin-left: 0;
+    width: 195px;
+    height: 195px;
+}
+
+#description {
+    margin-right: 0; !important
+    width:200px;    !important
+    height: 200px;  !important
+    margin-top: 0;  !important
+
+}
